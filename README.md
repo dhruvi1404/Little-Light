@@ -43,7 +43,7 @@ Project Setup
 
 ### Installation Steps
 
-1.  bashCopy codegit clone https://github.com/your-username/little-light.gitcd little-light
+1.  git clone https://github.com/your-username/little-light.gitcd little-light
     
 2.  **Backend Setup**:
     
@@ -51,7 +51,7 @@ Project Setup
         
     *   Install dependencies: npm install
         
-    *   plaintextCopy codePORT=5000JWT\_SECRET=your\_jwt\_secretDB\_HOST=localhostDB\_USER=rootDB\_PASSWORD=your\_db\_passwordDB\_NAME=littlelightCLOUDINARY\_CLOUD\_NAME=your\_cloud\_nameCLOUDINARY\_API\_KEY=your\_api\_keyCLOUDINARY\_API\_SECRET=your\_api\_secret
+    * codePORT=5000JWT\_SECRET=your\_jwt\_secretDB\_HOST=localhostDB\_USER=rootDB\_PASSWORD=your\_db\_passwordDB\_NAME=littlelightCLOUDINARY\_CLOUD\_NAME=your\_cloud\_nameCLOUDINARY\_API\_KEY=your\_api\_keyCLOUDINARY\_API\_SECRET=your\_api\_secret
         
 3.  **Database Setup**:
     
